@@ -5,7 +5,12 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	int chislo = 0;
+
+	std::cout << chislo / 1 << std::endl;
+
+	std::cout << "Функция работает !";
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
